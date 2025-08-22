@@ -1,8 +1,8 @@
-### H3 Interior Design Site
+## Interior Design Site
 
 A simple static website built using HTML and CSS for a construction company. This project is designed as a frontend demonstration for reviewers.
 
-### H2 Project Overview
+### Project Overview
 
 - Showcases the design of a construction company website.
 
@@ -14,7 +14,7 @@ A simple static website built using HTML and CSS for a construction company. Thi
 
 - Intended to run locally for review purposes.
 
-### H2 Project Structure
+### Project Structure
 Interior-design-Site/
 
 │── index.html        # Main HTML file  
@@ -22,13 +22,13 @@ Interior-design-Site/
 │── images/           # Image assets used in the site  
 
 
-### H2 Prerequisites
+### Prerequisites
 
 - A web browser (Chrome, Firefox, Edge, etc.)
 
 - A local server (optional) – you can use VS Code Live Server Extension for a smoother experience.
 
-### H2 Steps to Run
+### Steps to Run
 
 - Clone the repository:
 
@@ -39,7 +39,7 @@ git clone https://github.com/Jeevanantham-K-03/Interior-design-Site.git
 
 Open index.html in your browser or use a local server (like VS Code Live Server).
 
-### H2 Features
+### Features
 
 - Clean and professional design for a construction company.
 
@@ -47,11 +47,11 @@ Open index.html in your browser or use a local server (like VS Code Live Server)
 
 - Organized folder structure for easy modification.
 
-### H2 Preview
+### Preview
 
-![Homepage preview](images/preview.png)
+![Homepage preview](./images/preview.png)
 
-### H2 Built With
+### Built With
 
 1. HTML5 – Structure
 
