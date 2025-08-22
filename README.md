@@ -49,7 +49,7 @@ Open index.html in your browser or use a local server (like VS Code Live Server)
 
 ### Preview
 
-![Homepage preview](./images/preview.png)
+![Homepage preview](./images/preview.png.png)
 
 ### Built With
 
